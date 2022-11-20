@@ -1,0 +1,21 @@
+{
+    "name": "Glendson Zeus",
+    "job": "FrontEnd Engineer",
+    "github": "Glendson",
+    "playlists": {
+        "games":[
+            {
+                "title": "Algum Titulo",
+                "url": "url",
+                "thumb": "Thumbnail do video"
+            }
+        ],
+        "front-end":[
+            {
+                "title": "Algum Titulo",
+                "url": "url",
+                "thumb": "Thumbnail do video"
+            }
+        ]
+    }
+}
